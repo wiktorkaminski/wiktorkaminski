@@ -13,4 +13,4 @@ Recently I've finished my first Java course and still working to improve my skil
 
 Have a look in my repo, if you want. I am aware, that it is just a newbie's code :wink:, but I'm constantly working to improve myself. 
 
-📫 How to reach me: Just email me or let's meet on [LinkedIn](www.linkedin.com/in/wiktorkaminski1985)
+📫 How to reach me: Just email me or let's meet on [LinkedIn](https://www.linkedin.com/in/wiktorkaminski1985)
